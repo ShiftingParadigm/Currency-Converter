@@ -6,7 +6,7 @@ A simple, clean, and responsive web app that converts one currency into another 
 
 ## 📸 Demo
 
-🌐 **Live Site**: [Click Here](https://yourusername.github.io/currency-converter/)  
+🌐 **Live Site**: [Click Here](https://slakedlime.netlify.app/)  
 
 ---
 
